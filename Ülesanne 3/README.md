@@ -14,6 +14,13 @@ Lisaks otsustasin parandada veebilehte ja tegin mõned väikesed muudatused koht
 
 **3.** **Kolmas ülesanne** oli see, millele ma kõige rohkem aega kulutasin. Tahtsin lisaks sisendväljade ja valikute lisamisele teha vormi ja panna selle tööle, teha sisendväljadele sobivad kujundused ja nii edasi. See jõudis selleni, et otsustasin teha mõned ``skriptid``, et kõik hästi toimiks. See mitte ainult ei muutnud lehte veidi interaktiivsemaks, vaid muutis ka vormi huvitavamaks. Te saate vaadata, kuidas minu vorm töötab!
 
-...
+*NB! - Te saate juurdepääsu "cart.html" faililehele, kui klõpsate avalehel kõige esimese toote "Roosa seep" nimele või selle nime all olevale nupule.*
+
+**4.** **Neljandas ülesandes** kirjutasin kõigepealt teksti ja lisasin pildi paremale, seejärel lõin tabeli, lisades andmed fiktiivse ettevõtte kohta *(mina mainisin teid seal)* ja seejärel tegin karusselli kolme pildiga. Paralleelselt lisasin võimaluse minna sellele leheküljele, nagu ülesandes täpsustatud.
+
+*NB! - Sellel leheküljel olevad pildid joonistasin mina ja seejärel muutsin Photoshopis, et taust oleks läbipaistev.*
+
+
+
 
 
