@@ -20,6 +20,12 @@ Lisaks otsustasin parandada veebilehte ja tegin mõned väikesed muudatused koht
 
 *NB! - Sellel leheküljel olevad pildid joonistasin mina ja seejärel muutsin Photoshopis, et taust oleks läbipaistev.*
 
+Kõige lõpus lõin väikese faili nimega "kinnitud.html". Selle algus ja lõpp on täpselt samasugune nagu teistel lehekülgedel ja sisaldab keskel ainult pealkirja, teksti ja nuppu, mis viib kasutaja kodulehele.
+
+
+
+
+
 
 
 
