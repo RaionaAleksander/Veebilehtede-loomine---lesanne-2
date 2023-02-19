@@ -24,9 +24,9 @@ Kõige lõpus lõin väikese faili nimega "kinnitud.html". Selle algus ja lõpp 
 
 
 
-Tahaksin kirjutada ka oma arvamuse selle ülesande ja töö kohta üldiselt:
+*Tahaksin kirjutada ka oma arvamuse selle ülesande kohta üldiselt:*
 
-Mulle meeldis see ülesanne väga. See oli minu jaoks väga huvitav ja meeldejääv. See oli ülesanne, kus sa pidid täitma punkte, kuid sul ei olnud suuri piiranguid ja sa võisid saiti täiustada ja paremaks muuta. Ma püüdsin tööd teha ja andsin endast parima. Mulle meeldib lõpptulemus, mille ma sain.
+Mulle meeldis see ülesanne väga. See oli minu jaoks väga huvitav ja meeldejääv. See oli ülesanne, kus sa pidid täitma mitmesuguseid ülesandeid, kuid sul ei olnud suuri piiranguid ja sa võisid saiti täiustada ja paremaks muuta. Ma püüdsin tööd teha ja andsin endast parima. Mulle meeldib lõpptulemus, mille ma sain.
 
 Kui ma saaksin kolmandat ülesannet hinnata, annaksin sellele *10/10*.
 
