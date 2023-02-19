@@ -31,4 +31,4 @@ Mulle meeldis see ülesanne väga. See oli minu jaoks väga huvitav ja meeldejä
 Kui ma saaksin kolmandat ülesannet hinnata, annaksin sellele *10/10*.
 
 
-Lingid failidele:[index.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/index.html), [cart.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/cart.html), [aboutus.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/aboutus.html), [kinnitud.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/kinnitud.html).
+Lingid failidele: [index.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/index.html), [cart.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/cart.html), [aboutus.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/aboutus.html), [kinnitud.html](https://github.com/RaionaAleksander/raionaaleksander.github.io/blob/main/%C3%9Clesanne%203/kinnitud.html).
