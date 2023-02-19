@@ -4,6 +4,16 @@ Mina täitsin [kõik neli ülesannet](https://moodle.ut.ee/mod/assign/view.php?i
 
 Lisaks otsustasin parandada veebilehte ja tegin mõned väikesed muudatused kohtades, mis ei ole seotud ülesannetega. Nüüd tahaksin liikuda edasi mõne ülesande juurde ja rääkida neist veidi.
 
+**1.** **Esimese ülesande** puhul tegin ma järgmist. **Jumbotronis** tegin "*Bootstrap 4*" päise, paar rida, kolm teksti ja nupu, mis hüppab tootelehe hetkele. 
+
+*NB! - Ma ei teinud teist ja kolmandat teksti täpselt samaks kui esimest, sest nii meeldib mulle paremini. Ma ei suurendanud ka nuppu, sest suur nupp ei näeks selle tekstiga hästi välja.*
+
+**2.** **Teises ülesandes** tegin järgmist. Footeri elementi kirjutasin kontaktandmed, sotsiaalmeediasse viivad ikoonilinkid ja kõige lõppu teksti, nagu seda näeb mõnel veebisaidil. 
+
+*NB! - Suur osa kontaktandmeid ei ole tegelikult olemas. Lingid töötavad, kuid viivad samale leheküljele, kus te neid kasutasite.*
+
+**3.** **Kolmas ülesanne** oli see, millele ma kõige rohkem aega kulutasin. Tahtsin lisaks sisendväljade ja valikute lisamisele teha vormi ja panna selle tööle, teha sisendväljadele sobivad kujundused ja nii edasi. See jõudis selleni, et otsustasin teha mõned ``skriptid``, et kõik hästi toimiks. See mitte ainult ei muutnud lehte veidi interaktiivsemaks, vaid muutis ka vormi huvitavamaks. Te saate vaadata, kuidas minu vorm töötab!
+
 ...
 
 
