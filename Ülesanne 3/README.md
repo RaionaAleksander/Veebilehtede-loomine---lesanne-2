@@ -4,4 +4,6 @@ Mina täitsin [kõik neli ülesannet](https://moodle.ut.ee/mod/assign/view.php?i
 
 Lisaks otsustasin parandada veebilehte ja tegin mõned väikesed muudatused kohtades, mis ei ole seotud ülesannetega. Nüüd tahaksin liikuda edasi mõne ülesande juurde ja rääkida neist veidi.
 
+...
+
 
