@@ -1,6 +1,6 @@
 # Ülesanne 3
 
-Mina täitsin [kõik neli ülesannet](https://moodle.ut.ee/mod/assign/view.php?id=582931), püüdes teha seda võimalikult ilusaks ja mitte nii tühjaks. Mulle meeldib, kuidas minu valmis töö välja näeb.
+Mina täitsin [kõik neli ülesannet](https://moodle.ut.ee/mod/assign/view.php?id=582931), püüdes teha seda võimalikult ilusaks ja mitte nii tühjaks.
 
 Lisaks otsustasin parandada veebilehte ja tegin mõned väikesed muudatused kohtades, mis ei ole seotud ülesannetega. Nüüd tahaksin liikuda edasi mõne ülesande juurde ja rääkida neist veidi.
 
@@ -23,8 +23,9 @@ Lisaks otsustasin parandada veebilehte ja tegin mõned väikesed muudatused koht
 Kõige lõpus lõin väikese faili nimega "kinnitud.html". Selle algus ja lõpp on täpselt samasugune nagu teistel lehekülgedel ja sisaldab keskel ainult pealkirja, teksti ja nuppu, mis viib kasutaja kodulehele.
 
 
+Tahaksin kirjutada ka oma arvamuse selle ülesande ja töö kohta üldiselt:
 
-
+Mulle meeldis see ülesanne väga. See oli minu jaoks väga huvitav ja meeldejääv. See oli ülesanne, kus sa pidid täitma punkte, kuid sul ei olnud suuri piiranguid ja sa võisid saiti täiustada ja paremaks muuta. Ma püüdsin tööd teha ja andsin endast parima. Mulle meeldib lõpptulemus, mille ma sain.
 
 
 
