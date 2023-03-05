@@ -13,14 +13,14 @@ h1 {
 }
 
 h2 {
-    font-size: 21px;
+    font-size: 23px;
 }
 
 img {
     margin: auto;
     display: block;
     width: 90%;
-    border: 1px solid;
+    border: 2px solid black;
 }
 
 .COOKBOOK {
@@ -39,8 +39,15 @@ img {
 
 .esimene, .kolmas, .neljas {
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
+}
+
+.esimene, .kolmas {
+    flex-direction: row;
+}
+
+.neljas {
+    align-items: flex-end;
 }
 
 .teine {
@@ -56,12 +63,11 @@ img {
     display: flex;
     margin: 15px;
     margin-right: 0px;
-    width: 40%;
+    width: 50%;
     align-self: center;
 }
 
 .neljas > img {
-    width: 24%;
     border-radius: 150px;
 }
 
@@ -73,6 +79,7 @@ img {
     display: flex;
     background-color: lightgray;
     justify-content: space-around;
+    margin-bottom: 16px;
 }
 
 .viies {
@@ -104,21 +111,40 @@ hr {
     border: 1.5px solid #000;
 }
 
-.neljas > h2 {
-    font-size: 23px;
+.COOKBOOK > h2 {
     display: none;
 }
 
+@media (min-width: 1201px) {
+    .neljas > img {
+        width: 250px;
+    }
+
+    .kolmas > p {
+        font-size: 18px;
+    }
+
+    .kolmas > img {
+        width: 500px;
+    }
+}
 
 
-@media screen and (max-width: 750px) {
+@media (min-width: 551px) and (max-width: 1200px) {
+    .neljas > img {
+        width: 20%;
+    }
+}
+
+
+@media screen and (max-width: 850px) {
     .kolmas > img {
         display: none;
     }
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
     body {
         background-color: white;
     }
@@ -136,70 +162,21 @@ hr {
     }
 
     .neljas > img {
+        border-radius: 180px;
         margin-bottom: 20px;
-        width: 50%;
+        width: 70%;
     }
 
-    .neljas > h2 {
+    .COOKBOOK > h2 {
         display: block;
-        margin-left: 32px;
+        margin-left: 34px;
     }
 
     .COOKBOOK > img {
-        width: 99.8%;
+        width: 100%;
     }
 
     .viies {
         font-size: 14px;
     }
 }
-
-
-/*animatsioonid*/
-/*Ma ei tea. Kui ma üritan teha div-elementidega ümberkujundamist, kaovad need ära.*/
-/*
-.itaalia {
-    width: 24%;
-    border-radius: 150px;
-    background-image: url("https://i.imgur.com/52ftHJg.png");
-    background-size: cover;
-    transition: all 1.5s ease-in-out 1s; 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.itaalia:hover {
-    background-image: url("https://i.imgur.com/8AQ2XxG.png");
-}
-
-.aasia {
-    width: 24%;
-    border-radius: 150px;
-    background-image: url("https://i.imgur.com/smOSTSG.png");
-    background-size: cover;
-    transition: all 1.5s ease-in-out 1s; 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.aasia:hover {
-    background-image: url("https://i.imgur.com/l4Wz1LO.png");
-}
-
-.eesti {
-    width: 24%;
-    border-radius: 150px;
-    background-image: url("https://i.imgur.com/If3x1Wk.png");
-    background-size: cover;
-    transition: all 1.5s ease-in-out 1s; 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.eesti:hover {
-    background-image: url("https://i.imgur.com/8PbPOU9.png");
-}
-*/
