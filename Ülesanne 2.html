@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Ülesanne 2</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" http-equiv="Content-Type" content="text/html; charset=UTF-8; width=device-width, initial-scale=1.0">
     <link type="text/css" rel ="stylesheet" href="stylesheet.css">
 </head>
 <body>
@@ -18,7 +18,7 @@
         <img src="https://img.freepik.com/free-psd/horizontal-banner-for-healthy-salad-lunch_23-2148715623.jpg?w=1800&t=st=1675792973~exp=1675793573~hmac=c272588d3d9e7ec42bc3f526f6cbb1a0bd4e83a86215ea1d05e3a31251ac0f68" alt="Restaurant-banner">
         <br>
         <div class="teine">
-            <h2>MEIST</h2>
+            <h2 class="Meist">MEIST</h2>
             <div class="kolmas">
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -29,9 +29,8 @@
                 </p>
                 <img src="https://www.cthawards.com/wp-content/uploads/2019/03/how-to-inspire-the-next-generation-of-future-chefs-art-img.jpg" alt="Chefs-photo">
             </div>
+            <h2 class="Retseptid">RETSEPTID</h2>
         </div>
-        <br>
-        <h2>RETSEPTID</h2>
         <br>
         <div class="neljas">
             <img class="itaalia" src="https://i.imgur.com/52ftHJg.png" alt="itaalia-food">
@@ -39,7 +38,7 @@
             <img class="eesti" src="https://i.imgur.com/If3x1Wk.png" alt="eesti-food">
             <script> 
             /*Skript, mis muudab pilti, kui hiir üle selle liigub, ja tagastab selle tagasi, kui hiir lahkub pildialalt.*/
-                if (window.innerWidth > 550) { /*Ekraani laiuse kontrollimine*/
+                if (window.innerWidth > 550 && document.documentElement.clientWidth > 550) { /*Ekraani laiuse kontrollimine*/
                     const image1 = document.querySelector('.eesti');
                     const image2 = document.querySelector('.aasia');
                     const image3 = document.querySelector('.itaalia');

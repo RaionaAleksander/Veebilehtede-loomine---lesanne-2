@@ -111,7 +111,7 @@ hr {
     border: 1.5px solid #000;
 }
 
-.COOKBOOK > h2 {
+.Retseptid {
     display: none;
 }
 
@@ -157,23 +157,29 @@ hr {
         display: block;
     }
 
+    .teine > h2 {
+        margin-bottom: 0px;
+    }
+
+    .Meist, .esimene > h2 {
+        font-size: 20px;
+    }
+
     .neljas {
         flex-direction: column;
     }
 
     .neljas > img {
-        border-radius: 180px;
+        width: 50%;
         margin-bottom: 20px;
-        width: 70%;
     }
 
-    .COOKBOOK > h2 {
+    .Retseptid {
         display: block;
-        margin-left: 34px;
     }
 
     .COOKBOOK > img {
-        width: 100%;
+        width: 99%;
     }
 
     .viies {
