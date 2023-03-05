@@ -10,3 +10,5 @@ Ainult [pilt](https://raw.githubusercontent.com/RaionaAleksander/raionaaleksande
 2. [http://www.tim.org/programs/WHO.php](http://www.tim.org/programs/WHO.php)
 3. [http://www.tim.org/](http://www.tim.org/)
 4. [https://spork.org/spork-gear.shtml](https://spork.org/spork-gear.shtml)
+
+Kasutatud Figma kui disainiplatvorm.
